@@ -1,9 +1,4 @@
-# tree-counting
-
-Dataset, model,  evaluation samples and demo videos here: https://drive.google.com/drive/folders/1td8FOQ08eVjX1r3pZL5-K_b_A81T_ROf?usp=sharing
-
-Dataset: https://drive.google.com/drive/folders/1pwGYHMw5hSVxgwH2WXeQMyAH4RyihpL0 \
-Models: https://drive.google.com/drive/folders/1euarXrFfPfl6kYMhpBVHIVvRUqlN2cDP \
+# public-tree-counting
 
 ## How to run the code (With visualization) 
 #### Input videos will need a GPS metadata file i.e. corresponding .gpx file. Please put the video and its .gpx file in the same folder
