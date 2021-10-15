@@ -1,4 +1,10 @@
 # public-tree-counting
+Soure code for the paper: Arpit Bahety, Rohit Saluja, Ravi Kiran Sarvadevabhatla, Anbumani Subramanian and C.V. Jawahar "Automatic Quantification and Visualization of Street Trees. In Proceedings of 12th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP’21), Chetan Arora, Parag Chaudhuri,and Subhransu Maji (Eds.). ACM, New York, NY, USA, Article 90."
+
+## Demo videos of tree detection and counting results
+
+| [![Video 1](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/2.png?raw=true)](https://www.youtube.com/watch?v=8bm1WXBILBI) |  [![Video 2](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/3.png?raw=true)](https://www.youtube.com/watch?v=CvIZLw1CcDM") |
+|---|---|
 
 ## How to run the code (With visualization) 
 #### Input videos will need a GPS metadata file i.e. corresponding .gpx file. Please put the video and its .gpx file in the same folder
@@ -40,10 +46,6 @@ This will give a file as an output - "tree_density.txt"
 | YOLOv4 | 82.50%  | 46.23% |
 | **YOLOv5l**  | **83.74%**  | **48.45%** |
 
-## Youtube videos of tree detection and counting results
-
-| [![Video 1](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/2.png?raw=true)](https://www.youtube.com/watch?v=8bm1WXBILBI) |  [![Video 2](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/3.png?raw=true)](https://www.youtube.com/watch?v=CvIZLw1CcDM") |
-|---|---|
 
 ## Category map
 
