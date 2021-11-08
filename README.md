@@ -41,12 +41,12 @@ This will give a file as an output - "tree_density.txt"
 
 #### The final model used by us is YOLOv5l
 
-| Model | AP@50 | mAP@0.5:0.95 |
-| ------------- | ------------- | ------------- | 
-| YOLOv5s  | 79.29%  | 41.56% |
-| Faster RCNN  | 81.09%  |41.89% |
-| YOLOv4 | 82.50%  | 46.23% |
-| **YOLOv5l**  | **83.74%**  | **48.45%** |
+| Model | AP@50 | 
+| ------------- | ------------- | 
+| YOLOv5s  | 79.29%  | 
+| Faster RCNN  | 81.09%  |
+| YOLOv4 | 82.50%  |
+| **YOLOv5l**  | **83.74%**  |
 
 
 ## Category map
