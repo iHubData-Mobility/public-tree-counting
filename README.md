@@ -5,7 +5,7 @@ Arpit Bahety, Rohit Saluja, Ravi Kiran Sarvadevabhatla, Anbumani Subramanian and
 
 ## Demo videos of tree detection and counting results
 
-| [![Video 1](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/2.png?raw=true)](https://www.youtube.com/watch?v=8bm1WXBILBI) |  [![Video 2](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/3.png?raw=true)](https://www.youtube.com/watch?v=CvIZLw1CcDM") |
+| ![Demo 1](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo1.gif) |  ![Demo 2](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo2.gif) |
 |---|---|
 
 ## How to run the code (With visualization) 
