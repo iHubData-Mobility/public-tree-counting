@@ -6,6 +6,7 @@ Arpit Bahety, Rohit Saluja, Ravi Kiran Sarvadevabhatla, Anbumani Subramanian and
 ## Presentation
 
 | ![Presentation](https://media.githubusercontent.com/media/iHubData-Mobility/public-tree-counting/main/demo/Presentation.mp4) |
+|---|
 ## Demo videos of tree detection and counting results
 
 | ![Demo 1](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo1.gif) |  ![Demo 2](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo2.gif) |
