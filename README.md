@@ -65,6 +65,7 @@ This will give a file as an output - "tree_density.txt"
 
 If you use our code, please cite in the following BibTeX format:
 
+```
 @inproceedings{bahety2021automatic,
   title={Automatic {Q}uantification and {V}isualization of {S}treet {T}rees},
   author={Bahety, Arpit and Saluja, Rohit and Sarvadevabhatla, Ravi Kiran and Subramanian, Anbumani and Jawahar, CV},
@@ -72,4 +73,5 @@ If you use our code, please cite in the following BibTeX format:
   pages={1--9},
   year={2021}
 }
+```
 
