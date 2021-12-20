@@ -5,7 +5,7 @@ Arpit Bahety, Rohit Saluja, Ravi Kiran Sarvadevabhatla, Anbumani Subramanian and
 
 ## Presentation
 
-| ![Presentation](https://media.githubusercontent.com/media/iHubData-Mobility/public-tree-counting/main/demo/Presentation.mp4) |
+![Presentation](https://media.githubusercontent.com/media/iHubData-Mobility/public-tree-counting/main/demo/Presentation.mp4)
 
 ## Demo videos of tree detection and counting results
 
@@ -45,12 +45,12 @@ This will give a file as an output - "tree_density.txt"
 
 #### The final model used by us is YOLOv5l
 
-| Model | AP@50 | 
-| ------------- | ------------- | 
-| YOLOv5s  | 79.29%  | 
-| Faster RCNN  | 81.09%  |
-| YOLOv4 | 82.50%  |
-| **YOLOv5l**  | **83.74%**  |
+| Model | AP@50 | MAE | TCDCA |
+| ------------- | ------------- | ------------- | ------------- |
+| Faster RCNN  | 81.09%  | 6.12 | 74.19% |
+| YOLOv4 | 82.50%  | 4.35 | 90.32% |
+| YOLOv5s  | 79.29%  | 7.22 | 67.74% |
+| **YOLOv5l**  | **83.74%**  | **3.09** | **96.77%** |
 
 
 ## Category map
