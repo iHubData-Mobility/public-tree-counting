@@ -3,6 +3,10 @@ Soure code for the paper:
 
 Arpit Bahety, Rohit Saluja, Ravi Kiran Sarvadevabhatla, Anbumani Subramanian and C.V. Jawahar "Automatic Quantification and Visualization of Street Trees." In Proceedings of 12th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP’21), Chetan Arora, Parag Chaudhuri,and Subhransu Maji (Eds.). ACM, New York, NY, USA, Article 90. [https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2021/Automatic_tree.pdf]
 
+## Presentation
+
+![Presentation Video](https://media.githubusercontent.com/media/iHubData-Mobility/public-tree-counting/main/demo/Presentation.mp4)
+
 ## Demo videos of tree detection and counting results
 
 | ![Demo 1](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo1.gif) |  ![Demo 2](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo2.gif) |
@@ -41,12 +45,12 @@ This will give a file as an output - "tree_density.txt"
 
 #### The final model used by us is YOLOv5l
 
-| Model | AP@50 | 
-| ------------- | ------------- | 
-| YOLOv5s  | 79.29%  | 
-| Faster RCNN  | 81.09%  |
-| YOLOv4 | 82.50%  |
-| **YOLOv5l**  | **83.74%**  |
+| Model | AP@50 | MAE | TCDCA |
+| ------------- | ------------- | ------------- | ------------- |
+| Faster RCNN  | 81.09%  | 6.12 | 74.19% |
+| YOLOv4 | 82.50%  | 4.35 | 90.32% |
+| YOLOv5s  | 79.29%  | 7.22 | 67.74% |
+| **YOLOv5l**  | **83.74%**  | **3.09** | **96.77%** |
 
 
 ## Category map
@@ -56,3 +60,18 @@ This will give a file as an output - "tree_density.txt"
 ## Density map
 
 ![alt text](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/density_map_results.png?raw=true)
+
+## Citation
+
+If you use our code, please cite in the following BibTeX format:
+
+```
+@inproceedings{bahety2021automatic,
+  title={Automatic {Q}uantification and {V}isualization of {S}treet {T}rees},
+  author={Bahety, Arpit and Saluja, Rohit and Sarvadevabhatla, Ravi Kiran and Subramanian, Anbumani and Jawahar, CV},
+  booktitle={Proceedings of the Twelfth Indian Conference on Computer Vision, Graphics and Image Processing},
+  pages={1--9},
+  year={2021}
+}
+```
+
