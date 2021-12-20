@@ -3,6 +3,9 @@ Soure code for the paper:
 
 Arpit Bahety, Rohit Saluja, Ravi Kiran Sarvadevabhatla, Anbumani Subramanian and C.V. Jawahar "Automatic Quantification and Visualization of Street Trees." In Proceedings of 12th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP’21), Chetan Arora, Parag Chaudhuri,and Subhransu Maji (Eds.). ACM, New York, NY, USA, Article 90. [https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2021/Automatic_tree.pdf]
 
+## Presentation
+
+![Presentation](https://media.githubusercontent.com/media/iHubData-Mobility/public-tree-counting/main/demo/Presentation.mp4)
 ## Demo videos of tree detection and counting results
 
 | ![Demo 1](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo1.gif) |  ![Demo 2](https://github.com/iHubData-Mobility/public-tree-counting/blob/main/demo/demo2.gif) |
