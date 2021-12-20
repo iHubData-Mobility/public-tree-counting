@@ -60,3 +60,16 @@ This will give a file as an output - "tree_density.txt"
 ## Density map
 
 ![alt text](https://github.com/CVIT-Mobility/tree-counting/blob/main/readme-images/density_map_results.png?raw=true)
+
+## Citation
+
+If you use our code, please cite in the following BibTeX format:
+
+@inproceedings{bahety2021automatic,
+  title={Automatic {Q}uantification and {V}isualization of {S}treet {T}rees},
+  author={Bahety, Arpit and Saluja, Rohit and Sarvadevabhatla, Ravi Kiran and Subramanian, Anbumani and Jawahar, CV},
+  booktitle={Proceedings of the Twelfth Indian Conference on Computer Vision, Graphics and Image Processing},
+  pages={1--9},
+  year={2021}
+}
+
